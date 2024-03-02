@@ -1,0 +1,12 @@
+.card
+{
+    width: 33.2rem;
+    height: 53rem;
+    padding: 3.5rem;
+    border-radius: 1rem;
+}
+
+button 
+{
+   height: 3.7rem; 
+}
